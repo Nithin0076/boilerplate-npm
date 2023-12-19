@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Nithin Reddy",
+	"author": "Nithin Reddy <reddynithin326@gmail.com>",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
